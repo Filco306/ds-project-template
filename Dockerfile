@@ -13,3 +13,5 @@ ENV HOME=$DOCKER_WORKSPACE_PATH/.home
 
 # TODO: List project dependencies here
 # RUN pip install ...
+COPY ./requirements.txt ./requirements.txt
+RUN pip install -r requirements.txt

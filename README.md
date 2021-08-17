@@ -1,5 +1,7 @@
 # Data Science Project Repository Template
 
+This project was originally made by @tobiasnorlund and slightly modified by me (Filip Cornell).
+
 This repo constitutes a skeleton for a typical ML/DS project. Docker is a first class citizen and can be customized by editing the provided `Dockerfile`.
 
 When starting a new project, please do the following:
